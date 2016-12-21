@@ -1,0 +1,47 @@
+
+.header{
+	background: #eee;
+	width: 100%;
+}
+.tieu_de{
+	margin-left: 30px;
+}
+.list-inline>li{
+	width: 40%;
+	margin-right: 10px;
+}
+.menu li{
+	width: 18%;
+}
+.text{
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+hr{
+	border: 1px dotted;
+	margin: 10px;
+}
+.list span{
+	color: #ec920d;
+}
+.list li{
+	list-style-type: none;
+}
+.text-small{
+	width: 50%;
+}
+.content-right{
+	width: 75%;
+}
+.footer hr{
+	width: 100%;
+	border: 0.5px solid #eee;
+}
+.center-block{
+	margin-top: 105px;
+}
+.nav{
+	margin: 20px;
+}
+.text-warning{
+	color: #ec920d;
+}
